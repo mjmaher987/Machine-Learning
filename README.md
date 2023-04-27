@@ -7,3 +7,6 @@ This repository is related to ML course.
 ### Regression
 ### Deep Learning
 ### Supervised Learning
+### Semi-Supervised Learning
+### Unsupervised Learning
+### Federated Learning

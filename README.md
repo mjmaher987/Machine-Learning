@@ -10,3 +10,9 @@ This repository is related to ML course.
 ### Semi-Supervised Learning
 ### Unsupervised Learning
 ### Federated Learning
+
+
+
+
+## Useful Links
+- [Persian] ML in simple words: https://baridsoft.net/machine-learning-in-simple-words/

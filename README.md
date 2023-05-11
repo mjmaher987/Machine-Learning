@@ -5,6 +5,9 @@ This repository is related to ML course.
 ## Suggested Topics
 ### Loss Functions
 ### Regression
+- Linear Regression
+- Logistic Regression
+- Lasso & Ridge Regression
 ### Deep Learning
 ### Supervised Learning
 ### Semi-Supervised Learning

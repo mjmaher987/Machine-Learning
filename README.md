@@ -19,7 +19,7 @@ This repository is related to ML course.
 - Logistic Regression is about classification, not regression!
 - There are 3 classical regression models: Lasso, Ridge, Linear Regression.
 - The cost functions are originated from MLE (Maximum Likelihood Estimator).
-  - For example: Cross-Entropy is originated from MLE of Bernoli Distribution, and MSE is originated from Normal Distribution.
+  - For example: Cross-Entropy is originated from MLE of Bernoli Distribution, and MSE is originated from MLE of Normal Distribution.
 
 ## Useful Links
 - [Persian] ML in simple words: https://baridsoft.net/machine-learning-in-simple-words/

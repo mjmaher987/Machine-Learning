@@ -8,6 +8,7 @@ This repository is related to ML course.
 - Linear Regression
 - Logistic Regression
 - Lasso & Ridge Regression
+- Non-Linear (Polynomial) Regression
 ### Deep Learning
 ### Supervised Learning
 ### Semi-Supervised Learning

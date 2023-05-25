@@ -6,9 +6,10 @@ This repository is related to ML course.
 ### Loss Functions
 ### Regression
 - Linear Regression
-- Logistic Regression
 - Lasso & Ridge Regression
 - Non-Linear (Polynomial) Regression
+### Classification
+- Logistic Regression
 ### Deep Learning
 ### Supervised Learning
 ### Semi-Supervised Learning

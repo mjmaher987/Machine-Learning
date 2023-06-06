@@ -10,6 +10,11 @@ This repository is related to ML course.
 - Non-Linear (Polynomial) Regression
 ### Classification
 - Logistic Regression
+- Decision Tree
+- Bagging
+- AdaBoost
+### Natural Language Processing
+- TF-IDF
 ### Deep Learning
 ### Supervised Learning
 ### Semi-Supervised Learning

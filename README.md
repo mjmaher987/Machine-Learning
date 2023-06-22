@@ -41,3 +41,4 @@ This repository is related to ML course.
 - Upload Useful assignments and answers
 - Add links of useful courses (videos) and their assignments with answers
 - The previous suggestion can be converted into a bank of questions that is useful for teaching assisstants to design homeworks
+- add link of ML course (Dr. Motahari)

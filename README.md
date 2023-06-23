@@ -4,11 +4,12 @@ This repository is related to ML course.
 
 ## Suggested Topics
 ### Loss Functions
-### Regression
+### Supervised Learning
+#### Regression
 - Linear Regression
 - Lasso & Ridge Regression
 - Non-Linear (Polynomial) Regression
-### Classification
+#### Classification
 - Logistic Regression
 - Decision Tree
 - Bagging
@@ -16,7 +17,7 @@ This repository is related to ML course.
 ### Natural Language Processing
 - TF-IDF
 ### Deep Learning
-### Supervised Learning
+
 ### Semi-Supervised Learning
 ### Unsupervised Learning
 ### Federated Learning

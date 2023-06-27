@@ -3,7 +3,6 @@ This repository is related to ML course.
 * Author: Mohammad Javad Maheronnaghsh
 
 ## Suggested Topics
-### Loss Functions
 ### Supervised Learning
 #### Regression
 - Linear Regression
@@ -22,6 +21,15 @@ This repository is related to ML course.
 - K-Means
 ### Semi-Supervised Learning
 ### Federated Learning
+### Loss Functions
+- MSE (Mean Squared Error)
+- Cross-Entropy
+  - Binary
+  - Categorical (Multi-class)
+- Hinge Loss
+  - used in SVMs
+- Logistic Loss
+  - used in logistic regression
 
 
 ## Some Notes

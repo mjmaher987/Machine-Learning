@@ -17,9 +17,10 @@ This repository is related to ML course.
 ### Natural Language Processing
 - TF-IDF
 ### Deep Learning
-
-### Semi-Supervised Learning
+- Neural Networks
 ### Unsupervised Learning
+- K-Means
+### Semi-Supervised Learning
 ### Federated Learning
 
 
